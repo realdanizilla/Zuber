@@ -66,6 +66,7 @@ This project aims to analyze and identify patterns in the available data for Zub
 - Pandas and NumPy: For data manipulation, cleaning, and transformations.
 - Matplotlib and Seaborn: For visualizing data trends, distributions, and relationships.
 - Scipy: For statistical analysis and hypothesis testing.
+- Beautiful Soup: Utilized for web scraping to retrieve weather data for Chicago in November 2017 from HTML pages. This allowed for further analysis on the impact of weather conditions on ride patterns.
 
 ## Specific Results and Outcomes
 
