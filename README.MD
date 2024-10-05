@@ -1,6 +1,20 @@
+# Zuber Ride Analysis
+
+## Table of Contents
+- [Zuber Ride Analysis](#zuber-ride-analysis)
+  - [Table of Contents](#table-of-contents)
+  - [Project Objective](#project-objective)
+  - [Project Structure](#project-structure)
+  - [Tools and Techniques Utilized:](#tools-and-techniques-utilized)
+  - [Specific Results and Outcomes](#specific-results-and-outcomes)
+  - [What I Have Learned from This Project](#what-i-have-learned-from-this-project)
+
+
 ## Project Objective
 
 This project aims to analyze and identify patterns in the available data for Zuber, a ride-sharing company launching in Chicago. The goal is to understand passenger preferences and the impact of external factors, such as weather, on rides. The project involves working with a database of taxi rides and weather data to test hypotheses and extract actionable insights.
+
+[back to top](#zuber-ride-analysis)
 
 ## Project Structure
 
@@ -60,6 +74,8 @@ This project aims to analyze and identify patterns in the available data for Zub
   - Set an alpha level (commonly 0.05) to determine the significance of the test results.
 - **Outcome**: The hypothesis test revealed the extent to which weather conditions affect ride durations, providing insights into ride-sharing behavior during different weather scenarios.
 
+[back to top](#zuber-ride-analysis)
+
 ## Tools and Techniques Utilized:
 
 - SQL: To query and analyze taxi and weather data, identifying ride patterns and correlations.
@@ -67,6 +83,8 @@ This project aims to analyze and identify patterns in the available data for Zub
 - Matplotlib and Seaborn: For visualizing data trends, distributions, and relationships.
 - Scipy: For statistical analysis and hypothesis testing.
 - Beautiful Soup: Utilized for web scraping to retrieve weather data for Chicago in November 2017 from HTML pages. This allowed for further analysis on the impact of weather conditions on ride patterns.
+
+[back to top](#zuber-ride-analysis)
 
 ## Specific Results and Outcomes
 
@@ -124,11 +142,15 @@ This project aims to analyze and identify patterns in the available data for Zub
 - Impact of Weather on Ride Duration:
   - Visualizations like boxplots and scatter plots highlighted the difference in ride duration based on weather conditions, clearly showing the impact of rainy weather on extending ride times.
 
+[back to top](#zuber-ride-analysis)
+
 **Key Recommendations for Zuber**
 - **Focus on High-Demand Neighborhoods**: Target high-demand neighborhoods like Loop, Near North Side, and River North for ride-sharing services, as they are popular drop-off destinations.
 - **Prepare for Weather Variations**: Since ride durations are affected by weather, Zuber can develop strategies like surge pricing, optimized routing, and alerts to customers for better service during adverse weather conditions.
 -**Compete with Market Leaders**: Understand the strong market presence of Flash Cab and Taxi Affiliation Services. Zuber should aim to compete on price, service quality, or availability to gain market share in Chicago.
 - **Monitor Ride Duration to O'Hare**: Since O'Hare is a popular destination, Zuber can ensure accurate estimated times for airport trips and develop marketing strategies to target passengers traveling from central neighborhoods to the airport.
+
+[back to top](#zuber-ride-analysis)
 
 ## What I Have Learned from This Project
 
@@ -137,3 +159,5 @@ This project aims to analyze and identify patterns in the available data for Zub
 - **Hypothesis Testing**: Developed skills in forming null and alternative hypotheses, determining appropriate significance levels (alpha), and using statistical methods to test hypotheses.
 - **Data Visualization**: Enhanced skills in creating meaningful visualizations that illustrate trends and comparisons across different datasets (e.g., taxi company rides and neighborhood drop-off counts).
 - **Exploratory Data Analysis (EDA)**: Applied EDA techniques to uncover patterns in data, understand distributions, and make data-driven decisions.
+
+[back to top](#zuber-ride-analysis)
