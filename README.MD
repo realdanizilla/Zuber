@@ -8,6 +8,7 @@
   - [Tools and Techniques Utilized:](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned from This Project](#what-i-have-learned-from-this-project)
+  - [How to Use This Repository](#how-to-use-this-repository)
 
 
 ## Project Objective
@@ -161,3 +162,19 @@ This project aims to analyze and identify patterns in the available data for Zub
 - **Exploratory Data Analysis (EDA)**: Applied EDA techniques to uncover patterns in data, understand distributions, and make data-driven decisions.
 
 [back to top](#zuber-ride-analysis)
+
+
+## How to Use This Repository
+
+1. **Clone the Repository**  
+git clone [https://github.com/realdanizilla/Zuber.git](https://github.com/realdanizilla/Zuber.git)
+
+2. **Review Jupyter Notebooks and Datasets**  
+Explore the datasets, step-by-step data analysis, preprocessing, and hypothesis testing related to taxi rides and weather.
+
+3. **Execute Notebooks for Analysis**  
+Run the notebooks to understand the data exploration process, visualizations, and hypothesis testing performed.
+
+4. **Examine Results and Insights**  
+Analyze conclusions drawn from taxi trip data to optimize business strategies.
+
