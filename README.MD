@@ -178,3 +178,4 @@ Run the notebooks to understand the data exploration process, visualizations, an
 4. **Examine Results and Insights**  
 Analyze conclusions drawn from taxi trip data to optimize business strategies.
 
+[back to top](#zuber-ride-analysis)
